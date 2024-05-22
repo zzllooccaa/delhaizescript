@@ -1,0 +1,548 @@
+{
+    "1": {
+        "plu": 502,
+        "naziv": "Tost biljni Viotros 2.5kg",
+        "odeljenje": 1,
+        "wgnu": "3"
+    },
+    "2": {
+        "plu": 503,
+        "naziv": "Pizza biljni Viotros 2.5kg",
+        "odeljenje": 1,
+        "wgnu": "3"
+    },
+    "3": {
+        "plu": 1589,
+        "naziv": "Prazno - ukinut artikal",
+        "odeljenje": 3,
+        "wgnu": "3"
+    },
+    "4": {
+        "plu": 1893,
+        "naziv": "Djevrek Kuvani Ohridski 90g",
+        "odeljenje": 3,
+        "wgnu": "3"
+    },
+    "5": {
+        "plu": 1894,
+        "naziv": "Djevrek razani kuv.Ohridski 90",
+        "odeljenje": 3,
+        "wgnu": "3"
+    },
+    "6": {
+        "plu": 2300,
+        "naziv": "Tam.hl./zr.400g               \n   ^3;Naz",
+        "odeljenje": 3,
+        "wgnu": "3"
+    },
+    "7": {
+        "plu": 2301,
+        "naziv": "Hleb sa vise zitar 400g",
+        "odeljenje": 3,
+        "wgnu": "3"
+    },
+    "8": {
+        "plu": 2880,
+        "naziv": "Kajzerica bela 55g",
+        "odeljenje": 3,
+        "wgnu": "3"
+    },
+    "9": {
+        "plu": 3277,
+        "naziv": "Prazno - ukinut artikal",
+        "odeljenje": 2,
+        "wgnu": "3"
+    },
+    "10": {
+        "plu": 3307,
+        "naziv": "Paradajz crni kumato 500g",
+        "odeljenje": 2,
+        "wgnu": "3"
+    },
+    "11": {
+        "plu": 3504,
+        "naziv": "Rol virsla Maxi Pekara 105g",
+        "odeljenje": 3,
+        "wgnu": "3"
+    },
+    "12": {
+        "plu": 3505,
+        "naziv": "Rolnica sa sirom Maxi 105g",
+        "odeljenje": 3,
+        "wgnu": "3"
+    },
+    "13": {
+        "plu": 3507,
+        "naziv": "Prazno - ukinut artikal",
+        "odeljenje": 3,
+        "wgnu": "3"
+    },
+    "14": {
+        "plu": 3638,
+        "naziv": "Prazno - ukinut artikal",
+        "odeljenje": 3,
+        "wgnu": "3"
+    },
+    "15": {
+        "plu": 3639,
+        "naziv": "Rolnica mini pizza 120g",
+        "odeljenje": 3,
+        "wgnu": "3"
+    },
+    "16": {
+        "plu": 3661,
+        "naziv": "Rolnica sunka sir Pons 105g",
+        "odeljenje": 3,
+        "wgnu": "3"
+    },
+    "17": {
+        "plu": 3691,
+        "naziv": "Prazno - ukinut artikal",
+        "odeljenje": 3,
+        "wgnu": "3"
+    },
+    "18": {
+        "plu": 3692,
+        "naziv": "Prazno - ukinut artikal",
+        "odeljenje": 3,
+        "wgnu": "3"
+    },
+    "19": {
+        "plu": 3693,
+        "naziv": "Prazno - ukinut artikal",
+        "odeljenje": 3,
+        "wgnu": "3"
+    },
+    "20": {
+        "plu": 3695,
+        "naziv": "Prazno - ukinut artikal",
+        "odeljenje": 3,
+        "wgnu": "3"
+    },
+    "21": {
+        "plu": 3696,
+        "naziv": "Prazno - ukinut artikal",
+        "odeljenje": 3,
+        "wgnu": "3"
+    },
+    "22": {
+        "plu": 3708,
+        "naziv": "Prazno - ukinut artikal",
+        "odeljenje": 3,
+        "wgnu": "3"
+    },
+    "23": {
+        "plu": 3726,
+        "naziv": "Prazno - ukinut artikal",
+        "odeljenje": 3,
+        "wgnu": "3"
+    },
+    "24": {
+        "plu": 3751,
+        "naziv": "Prazno - ukinut artikal",
+        "odeljenje": 3,
+        "wgnu": "3"
+    },
+    "25": {
+        "plu": 3752,
+        "naziv": "Rol kob.sa senfom 140g",
+        "odeljenje": 3,
+        "wgnu": "3"
+    },
+    "26": {
+        "plu": 3753,
+        "naziv": "Prazno - ukinut artikal",
+        "odeljenje": 3,
+        "wgnu": "3"
+    },
+    "27": {
+        "plu": 3755,
+        "naziv": "Sarajevski zvrk meso 220g",
+        "odeljenje": 3,
+        "wgnu": "3"
+    },
+    "28": {
+        "plu": 3756,
+        "naziv": "Sarajevski zvrk sir 220g",
+        "odeljenje": 3,
+        "wgnu": "3"
+    },
+    "29": {
+        "plu": 3757,
+        "naziv": "Sarajevski zvrk zelje 220g",
+        "odeljenje": 3,
+        "wgnu": "3"
+    },
+    "30": {
+        "plu": 3775,
+        "naziv": "Prazno - ukinut artikal",
+        "odeljenje": 3,
+        "wgnu": "3"
+    },
+    "31": {
+        "plu": 3776,
+        "naziv": "Prazno - ukinut artikal",
+        "odeljenje": 3,
+        "wgnu": "3"
+    },
+    "32": {
+        "plu": 3777,
+        "naziv": "Prazno - ukinut artikal",
+        "odeljenje": 3,
+        "wgnu": "3"
+    },
+    "33": {
+        "plu": 3793,
+        "naziv": "Prazno - ukinut artikal",
+        "odeljenje": 3,
+        "wgnu": "3"
+    },
+    "34": {
+        "plu": 3794,
+        "naziv": "Prazno - ukinut artikal",
+        "odeljenje": 3,
+        "wgnu": "3"
+    },
+    "35": {
+        "plu": 3795,
+        "naziv": "Prazno - ukinut artikal",
+        "odeljenje": 3,
+        "wgnu": "3"
+    },
+    "36": {
+        "plu": 3796,
+        "naziv": "Kroasan putero sa cokol. 72g",
+        "odeljenje": 3,
+        "wgnu": "3"
+    },
+    "37": {
+        "plu": 3797,
+        "naziv": "Somun saraj. izduzeni 300g PP",
+        "odeljenje": 3,
+        "wgnu": "3"
+    },
+    "38": {
+        "plu": 3799,
+        "naziv": "Somun sarajev.izduzeni 160GPP",
+        "odeljenje": 3,
+        "wgnu": "3"
+    },
+    "39": {
+        "plu": 3800,
+        "naziv": "Prazno - ukinut artikal",
+        "odeljenje": 3,
+        "wgnu": "3"
+    },
+    "40": {
+        "plu": 3806,
+        "naziv": "Durum hleb 400 gr",
+        "odeljenje": 3,
+        "wgnu": "3"
+    },
+    "41": {
+        "plu": 3808,
+        "naziv": "Prazno - ukinut artikal",
+        "odeljenje": 3,
+        "wgnu": "3"
+    },
+    "42": {
+        "plu": 3809,
+        "naziv": "Krofna sa kajsija punj.48g PP",
+        "odeljenje": 3,
+        "wgnu": "3"
+    },
+    "43": {
+        "plu": 3810,
+        "naziv": "Hleb sa krompirom PP 400g",
+        "odeljenje": 3,
+        "wgnu": "3"
+    },
+    "44": {
+        "plu": 3814,
+        "naziv": "Pita sa jagodom Maxi pekara90g",
+        "odeljenje": 3,
+        "wgnu": "3"
+    },
+    "45": {
+        "plu": 3815,
+        "naziv": "Prazno - ukinut artikal",
+        "odeljenje": 3,
+        "wgnu": "3"
+    },
+    "46": {
+        "plu": 3816,
+        "naziv": "Carska pita 70g PP",
+        "odeljenje": 3,
+        "wgnu": "3"
+    },
+    "47": {
+        "plu": 3819,
+        "naziv": "Hleb Razeni Artisano 600g PP",
+        "odeljenje": 3,
+        "wgnu": "3"
+    },
+    "48": {
+        "plu": 3820,
+        "naziv": "Durum pecivo 70g",
+        "odeljenje": 3,
+        "wgnu": "3"
+    },
+    "49": {
+        "plu": 3821,
+        "naziv": "Nugat puter kroasan 80g",
+        "odeljenje": 3,
+        "wgnu": "3"
+    },
+    "50": {
+        "plu": 3822,
+        "naziv": "Prazno - ukinut artikal",
+        "odeljenje": 3,
+        "wgnu": "3"
+    },
+    "51": {
+        "plu": 3823,
+        "naziv": "Prazno - ukinut artikal",
+        "odeljenje": 3,
+        "wgnu": "3"
+    },
+    "52": {
+        "plu": 3824,
+        "naziv": "Prazno - ukinut artikal",
+        "odeljenje": 3,
+        "wgnu": "3"
+    },
+    "53": {
+        "plu": 3826,
+        "naziv": "Prazno - ukinut artikal",
+        "odeljenje": 3,
+        "wgnu": "3"
+    },
+    "54": {
+        "plu": 3827,
+        "naziv": "Krofna sa kajsija punjenj.80g",
+        "odeljenje": 3,
+        "wgnu": "3"
+    },
+    "55": {
+        "plu": 3828,
+        "naziv": "Prazno - ukinut artikal",
+        "odeljenje": 3,
+        "wgnu": "3"
+    },
+    "56": {
+        "plu": 3829,
+        "naziv": "Kifla bela 60g OT",
+        "odeljenje": 3,
+        "wgnu": "3"
+    },
+    "57": {
+        "plu": 3832,
+        "naziv": "Kajzerica sa semenkama  55g",
+        "odeljenje": 3,
+        "wgnu": "3"
+    },
+    "58": {
+        "plu": 3833,
+        "naziv": "Prazno - ukinut artikal",
+        "odeljenje": 3,
+        "wgnu": "3"
+    },
+    "59": {
+        "plu": 3841,
+        "naziv": "Burger zemicka 105g PP",
+        "odeljenje": 3,
+        "wgnu": "3"
+    },
+    "60": {
+        "plu": 3842,
+        "naziv": "Kifla tamna 60g PP",
+        "odeljenje": 3,
+        "wgnu": "3"
+    },
+    "61": {
+        "plu": 3843,
+        "naziv": "Rustik baget 250g",
+        "odeljenje": 3,
+        "wgnu": "3"
+    },
+    "62": {
+        "plu": 3850,
+        "naziv": "Sir Frico Smoked 45%mm,2.72kg",
+        "odeljenje": 1,
+        "wgnu": "3"
+    },
+    "63": {
+        "plu": 3859,
+        "naziv": "Pita sa sirom Maxi pekara 90g",
+        "odeljenje": 3,
+        "wgnu": "3"
+    },
+    "64": {
+        "plu": 3860,
+        "naziv": "Pita sa visnja.Maxi pekara 90g",
+        "odeljenje": 3,
+        "wgnu": "3"
+    },
+    "65": {
+        "plu": 3861,
+        "naziv": "Pita spanac,sir Maxi pekara90g",
+        "odeljenje": 3,
+        "wgnu": "3"
+    },
+    "66": {
+        "plu": 3862,
+        "naziv": "Pita jabuka Maxi pekara 90g",
+        "odeljenje": 3,
+        "wgnu": "3"
+    },
+    "67": {
+        "plu": 3863,
+        "naziv": "Pita meso Maxi pekara 90g",
+        "odeljenje": 3,
+        "wgnu": "3"
+    },
+    "68": {
+        "plu": 3864,
+        "naziv": "Pita sa kromp.Maxi pekara 90g",
+        "odeljenje": 3,
+        "wgnu": "3"
+    },
+    "69": {
+        "plu": 3865,
+        "naziv": "Pita pos.spanac Maxi pekara90g",
+        "odeljenje": 3,
+        "wgnu": "3"
+    },
+    "70": {
+        "plu": 3866,
+        "naziv": "Somun sarajevski mini 50g PP",
+        "odeljenje": 3,
+        "wgnu": "3"
+    },
+    "71": {
+        "plu": 3867,
+        "naziv": "Hleb beli Sava 300g PP",
+        "odeljenje": 3,
+        "wgnu": "3"
+    },
+    "72": {
+        "plu": 3868,
+        "naziv": "Ciabatta sa proklij.zrn.300gPP",
+        "odeljenje": 3,
+        "wgnu": "3"
+    },
+    "73": {
+        "plu": 3869,
+        "naziv": "Burger zemicka 95g  OT",
+        "odeljenje": 3,
+        "wgnu": "3"
+    },
+    "74": {
+        "plu": 3870,
+        "naziv": "Pita kack.sunka Maxi pek.150g",
+        "odeljenje": 3,
+        "wgnu": "3"
+    },
+    "75": {
+        "plu": 3871,
+        "naziv": "Pita heljda sir Maxi pek.150g",
+        "odeljenje": 3,
+        "wgnu": "3"
+    },
+    "76": {
+        "plu": 3874,
+        "naziv": "Puter kroasan 55g",
+        "odeljenje": 3,
+        "wgnu": "3"
+    },
+    "77": {
+        "plu": 3875,
+        "naziv": "Hot dog 110g",
+        "odeljenje": 3,
+        "wgnu": "3"
+    },
+    "78": {
+        "plu": 4253,
+        "naziv": "Prazno - ukinut artikal",
+        "odeljenje": 1,
+        "wgnu": "3"
+    },
+    "79": {
+        "plu": 4255,
+        "naziv": "Prazno - ukinut artikal",
+        "odeljenje": 1,
+        "wgnu": "3"
+    },
+    "80": {
+        "plu": 4256,
+        "naziv": "Prazno - ukinut artikal",
+        "odeljenje": 1,
+        "wgnu": "3"
+    },
+    "81": {
+        "plu": 5898,
+        "naziv": "Sir Cheddar 50%mm Paladin",
+        "odeljenje": 1,
+        "wgnu": "3"
+    },
+    "82": {
+        "plu": 6035,
+        "naziv": "Prazno - ukinut artikal",
+        "odeljenje": 1,
+        "wgnu": "3"
+    },
+    "83": {
+        "plu": 6115,
+        "naziv": "Kackavalj mesanac-Deda Stoja",
+        "odeljenje": 1,
+        "wgnu": "3"
+    },
+    "84": {
+        "plu": 6139,
+        "naziv": "Sir Livanjski (vaku.)cca 1/8",
+        "odeljenje": 1,
+        "wgnu": "3"
+    },
+    "85": {
+        "plu": 6322,
+        "naziv": "Pizza Mama s Gristiren 2.5kg",
+        "odeljenje": 1,
+        "wgnu": "3"
+    },
+    "86": {
+        "plu": 6323,
+        "naziv": "Tost Mama s 2.5kg",
+        "odeljenje": 1,
+        "wgnu": "3"
+    },
+    "87": {
+        "plu": 6456,
+        "naziv": "Prazno - ukinut artikal",
+        "odeljenje": 1,
+        "wgnu": "3"
+    },
+    "88": {
+        "plu": 6591,
+        "naziv": "Prazno - ukinut artikal",
+        "odeljenje": 1,
+        "wgnu": "3"
+    },
+    "89": {
+        "plu": 6592,
+        "naziv": "Prazno - ukinut artikal",
+        "odeljenje": 1,
+        "wgnu": "3"
+    },
+    "90": {
+        "plu": 7068,
+        "naziv": "Prazno - ukinut artikal",
+        "odeljenje": 1,
+        "wgnu": "3"
+    },
+    "91": {
+        "plu": 7070,
+        "naziv": "Prazno - ukinut artikal",
+        "odeljenje": 1,
+        "wgnu": "3"
+    }
+}

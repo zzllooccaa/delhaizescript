@@ -1,0 +1,548 @@
+{
+    "1": {
+        "plu": 758,
+        "naziv": "Vrat kraski Topola",
+        "odeljenje": 1,
+        "wgnu": "3"
+    },
+    "2": {
+        "plu": 970,
+        "naziv": "Cajna kobasica Zlatiborac",
+        "odeljenje": 1,
+        "wgnu": "3"
+    },
+    "3": {
+        "plu": 1569,
+        "naziv": "Riba Saran-ziv Ecka",
+        "odeljenje": 1,
+        "wgnu": "3"
+    },
+    "4": {
+        "plu": 1648,
+        "naziv": "Riba grgec filet Squadra",
+        "odeljenje": 1,
+        "wgnu": "3"
+    },
+    "5": {
+        "plu": 1651,
+        "naziv": "Riba Pangacius filet",
+        "odeljenje": 1,
+        "wgnu": "3"
+    },
+    "6": {
+        "plu": 3822,
+        "naziv": "Cajna kob.govedja Zlatiborac",
+        "odeljenje": 1,
+        "wgnu": "3"
+    },
+    "7": {
+        "plu": 4004,
+        "naziv": "Cajna kob.delikates Maxi",
+        "odeljenje": 1,
+        "wgnu": "3"
+    },
+    "8": {
+        "plu": 5535,
+        "naziv": "Filet Pangaciusa",
+        "odeljenje": 1,
+        "wgnu": "3"
+    },
+    "9": {
+        "plu": 5736,
+        "naziv": "Cajna kob.Neoplanta flow pack",
+        "odeljenje": 1,
+        "wgnu": "3"
+    },
+    "10": {
+        "plu": 6131,
+        "naziv": "Kobasica konj.cajna Bibli rinf",
+        "odeljenje": 1,
+        "wgnu": "3"
+    },
+    "11": {
+        "plu": 6133,
+        "naziv": "Kobasica konj.suva Bibli rinf",
+        "odeljenje": 1,
+        "wgnu": "3"
+    },
+    "12": {
+        "plu": 6306,
+        "naziv": "Pil.cajna kobas.Zlatibor.rinf",
+        "odeljenje": 1,
+        "wgnu": "3"
+    },
+    "13": {
+        "plu": 6329,
+        "naziv": "Riba saran ociscen-Ecka",
+        "odeljenje": 1,
+        "wgnu": "3"
+    },
+    "14": {
+        "plu": 999990,
+        "naziv": "Nema proizvoda",
+        "odeljenje": 1,
+        "wgnu": "2"
+    },
+    "15": {
+        "plu": 999990,
+        "naziv": "Nema proizvoda",
+        "odeljenje": 1,
+        "wgnu": "2"
+    },
+    "16": {
+        "plu": 999990,
+        "naziv": "Nema proizvoda",
+        "odeljenje": 1,
+        "wgnu": "2"
+    },
+    "17": {
+        "plu": 999990,
+        "naziv": "Nema proizvoda",
+        "odeljenje": 1,
+        "wgnu": "2"
+    },
+    "18": {
+        "plu": 999990,
+        "naziv": "Nema proizvoda",
+        "odeljenje": 1,
+        "wgnu": "2"
+    },
+    "19": {
+        "plu": 999990,
+        "naziv": "Nema proizvoda",
+        "odeljenje": 1,
+        "wgnu": "2"
+    },
+    "20": {
+        "plu": 999990,
+        "naziv": "Nema proizvoda",
+        "odeljenje": 1,
+        "wgnu": "2"
+    },
+    "21": {
+        "plu": 999990,
+        "naziv": "Nema proizvoda",
+        "odeljenje": 1,
+        "wgnu": "2"
+    },
+    "22": {
+        "plu": 999990,
+        "naziv": "Nema proizvoda",
+        "odeljenje": 1,
+        "wgnu": "2"
+    },
+    "23": {
+        "plu": 999990,
+        "naziv": "Nema proizvoda",
+        "odeljenje": 1,
+        "wgnu": "2"
+    },
+    "24": {
+        "plu": 999990,
+        "naziv": "Nema proizvoda",
+        "odeljenje": 1,
+        "wgnu": "2"
+    },
+    "25": {
+        "plu": 999990,
+        "naziv": "Nema proizvoda",
+        "odeljenje": 1,
+        "wgnu": "2"
+    },
+    "26": {
+        "plu": 999990,
+        "naziv": "Nema proizvoda",
+        "odeljenje": 1,
+        "wgnu": "2"
+    },
+    "27": {
+        "plu": 999990,
+        "naziv": "Nema proizvoda",
+        "odeljenje": 1,
+        "wgnu": "2"
+    },
+    "28": {
+        "plu": 999990,
+        "naziv": "Nema proizvoda",
+        "odeljenje": 1,
+        "wgnu": "2"
+    },
+    "29": {
+        "plu": 999990,
+        "naziv": "Nema proizvoda",
+        "odeljenje": 1,
+        "wgnu": "2"
+    },
+    "30": {
+        "plu": 999990,
+        "naziv": "Nema proizvoda",
+        "odeljenje": 1,
+        "wgnu": "2"
+    },
+    "31": {
+        "plu": 999990,
+        "naziv": "Nema proizvoda",
+        "odeljenje": 1,
+        "wgnu": "2"
+    },
+    "32": {
+        "plu": 999990,
+        "naziv": "Nema proizvoda",
+        "odeljenje": 1,
+        "wgnu": "2"
+    },
+    "33": {
+        "plu": 999990,
+        "naziv": "Nema proizvoda",
+        "odeljenje": 1,
+        "wgnu": "2"
+    },
+    "34": {
+        "plu": 999990,
+        "naziv": "Nema proizvoda",
+        "odeljenje": 1,
+        "wgnu": "2"
+    },
+    "35": {
+        "plu": 999990,
+        "naziv": "Nema proizvoda",
+        "odeljenje": 1,
+        "wgnu": "2"
+    },
+    "36": {
+        "plu": 999990,
+        "naziv": "Nema proizvoda",
+        "odeljenje": 1,
+        "wgnu": "2"
+    },
+    "37": {
+        "plu": 999990,
+        "naziv": "Nema proizvoda",
+        "odeljenje": 1,
+        "wgnu": "2"
+    },
+    "38": {
+        "plu": 999990,
+        "naziv": "Nema proizvoda",
+        "odeljenje": 1,
+        "wgnu": "2"
+    },
+    "39": {
+        "plu": 999990,
+        "naziv": "Nema proizvoda",
+        "odeljenje": 1,
+        "wgnu": "2"
+    },
+    "40": {
+        "plu": 999990,
+        "naziv": "Nema proizvoda",
+        "odeljenje": 1,
+        "wgnu": "2"
+    },
+    "41": {
+        "plu": 999990,
+        "naziv": "Nema proizvoda",
+        "odeljenje": 1,
+        "wgnu": "2"
+    },
+    "42": {
+        "plu": 999990,
+        "naziv": "Nema proizvoda",
+        "odeljenje": 1,
+        "wgnu": "2"
+    },
+    "43": {
+        "plu": 999990,
+        "naziv": "Nema proizvoda",
+        "odeljenje": 1,
+        "wgnu": "2"
+    },
+    "44": {
+        "plu": 999990,
+        "naziv": "Nema proizvoda",
+        "odeljenje": 1,
+        "wgnu": "2"
+    },
+    "45": {
+        "plu": 999990,
+        "naziv": "Nema proizvoda",
+        "odeljenje": 1,
+        "wgnu": "2"
+    },
+    "46": {
+        "plu": 999990,
+        "naziv": "Nema proizvoda",
+        "odeljenje": 1,
+        "wgnu": "2"
+    },
+    "47": {
+        "plu": 999990,
+        "naziv": "Nema proizvoda",
+        "odeljenje": 1,
+        "wgnu": "2"
+    },
+    "48": {
+        "plu": 999990,
+        "naziv": "Nema proizvoda",
+        "odeljenje": 1,
+        "wgnu": "2"
+    },
+    "49": {
+        "plu": 999990,
+        "naziv": "Nema proizvoda",
+        "odeljenje": 1,
+        "wgnu": "2"
+    },
+    "50": {
+        "plu": 999990,
+        "naziv": "Nema proizvoda",
+        "odeljenje": 1,
+        "wgnu": "2"
+    },
+    "51": {
+        "plu": 999990,
+        "naziv": "Nema proizvoda",
+        "odeljenje": 1,
+        "wgnu": "2"
+    },
+    "52": {
+        "plu": 999990,
+        "naziv": "Nema proizvoda",
+        "odeljenje": 1,
+        "wgnu": "2"
+    },
+    "53": {
+        "plu": 999990,
+        "naziv": "Nema proizvoda",
+        "odeljenje": 1,
+        "wgnu": "2"
+    },
+    "54": {
+        "plu": 999990,
+        "naziv": "Nema proizvoda",
+        "odeljenje": 1,
+        "wgnu": "2"
+    },
+    "55": {
+        "plu": 999990,
+        "naziv": "Nema proizvoda",
+        "odeljenje": 1,
+        "wgnu": "2"
+    },
+    "56": {
+        "plu": 999990,
+        "naziv": "Nema proizvoda",
+        "odeljenje": 1,
+        "wgnu": "2"
+    },
+    "57": {
+        "plu": 999990,
+        "naziv": "Nema proizvoda",
+        "odeljenje": 1,
+        "wgnu": "2"
+    },
+    "58": {
+        "plu": 999990,
+        "naziv": "Nema proizvoda",
+        "odeljenje": 1,
+        "wgnu": "2"
+    },
+    "59": {
+        "plu": 999990,
+        "naziv": "Nema proizvoda",
+        "odeljenje": 1,
+        "wgnu": "2"
+    },
+    "60": {
+        "plu": 999990,
+        "naziv": "Nema proizvoda",
+        "odeljenje": 1,
+        "wgnu": "2"
+    },
+    "61": {
+        "plu": 999990,
+        "naziv": "Nema proizvoda",
+        "odeljenje": 1,
+        "wgnu": "2"
+    },
+    "62": {
+        "plu": 999990,
+        "naziv": "Nema proizvoda",
+        "odeljenje": 1,
+        "wgnu": "2"
+    },
+    "63": {
+        "plu": 999990,
+        "naziv": "Nema proizvoda",
+        "odeljenje": 1,
+        "wgnu": "2"
+    },
+    "64": {
+        "plu": 999990,
+        "naziv": "Nema proizvoda",
+        "odeljenje": 1,
+        "wgnu": "2"
+    },
+    "65": {
+        "plu": 999990,
+        "naziv": "Nema proizvoda",
+        "odeljenje": 1,
+        "wgnu": "2"
+    },
+    "66": {
+        "plu": 999990,
+        "naziv": "Nema proizvoda",
+        "odeljenje": 1,
+        "wgnu": "2"
+    },
+    "67": {
+        "plu": 999990,
+        "naziv": "Nema proizvoda",
+        "odeljenje": 1,
+        "wgnu": "2"
+    },
+    "68": {
+        "plu": 999990,
+        "naziv": "Nema proizvoda",
+        "odeljenje": 1,
+        "wgnu": "2"
+    },
+    "69": {
+        "plu": 999990,
+        "naziv": "Nema proizvoda",
+        "odeljenje": 1,
+        "wgnu": "2"
+    },
+    "70": {
+        "plu": 999990,
+        "naziv": "Nema proizvoda",
+        "odeljenje": 1,
+        "wgnu": "2"
+    },
+    "71": {
+        "plu": 999990,
+        "naziv": "Nema proizvoda",
+        "odeljenje": 1,
+        "wgnu": "2"
+    },
+    "72": {
+        "plu": 999990,
+        "naziv": "Nema proizvoda",
+        "odeljenje": 1,
+        "wgnu": "2"
+    },
+    "73": {
+        "plu": 999990,
+        "naziv": "Nema proizvoda",
+        "odeljenje": 1,
+        "wgnu": "2"
+    },
+    "74": {
+        "plu": 999990,
+        "naziv": "Nema proizvoda",
+        "odeljenje": 1,
+        "wgnu": "2"
+    },
+    "75": {
+        "plu": 999990,
+        "naziv": "Nema proizvoda",
+        "odeljenje": 1,
+        "wgnu": "2"
+    },
+    "76": {
+        "plu": 999990,
+        "naziv": "Nema proizvoda",
+        "odeljenje": 1,
+        "wgnu": "2"
+    },
+    "77": {
+        "plu": 999990,
+        "naziv": "Nema proizvoda",
+        "odeljenje": 1,
+        "wgnu": "2"
+    },
+    "78": {
+        "plu": 999990,
+        "naziv": "Nema proizvoda",
+        "odeljenje": 1,
+        "wgnu": "2"
+    },
+    "79": {
+        "plu": 999990,
+        "naziv": "Nema proizvoda",
+        "odeljenje": 1,
+        "wgnu": "2"
+    },
+    "80": {
+        "plu": 999990,
+        "naziv": "Nema proizvoda",
+        "odeljenje": 1,
+        "wgnu": "2"
+    },
+    "81": {
+        "plu": 999990,
+        "naziv": "Nema proizvoda",
+        "odeljenje": 1,
+        "wgnu": "2"
+    },
+    "82": {
+        "plu": 999990,
+        "naziv": "Nema proizvoda",
+        "odeljenje": 1,
+        "wgnu": "2"
+    },
+    "83": {
+        "plu": 999990,
+        "naziv": "Nema proizvoda",
+        "odeljenje": 1,
+        "wgnu": "2"
+    },
+    "84": {
+        "plu": 999990,
+        "naziv": "Nema proizvoda",
+        "odeljenje": 1,
+        "wgnu": "2"
+    },
+    "85": {
+        "plu": 999990,
+        "naziv": "Nema proizvoda",
+        "odeljenje": 1,
+        "wgnu": "2"
+    },
+    "86": {
+        "plu": 999990,
+        "naziv": "Nema proizvoda",
+        "odeljenje": 1,
+        "wgnu": "2"
+    },
+    "87": {
+        "plu": 999990,
+        "naziv": "Nema proizvoda",
+        "odeljenje": 1,
+        "wgnu": "2"
+    },
+    "88": {
+        "plu": 999990,
+        "naziv": "Nema proizvoda",
+        "odeljenje": 1,
+        "wgnu": "2"
+    },
+    "89": {
+        "plu": 999990,
+        "naziv": "Nema proizvoda",
+        "odeljenje": 1,
+        "wgnu": "2"
+    },
+    "90": {
+        "plu": 999990,
+        "naziv": "Nema proizvoda",
+        "odeljenje": 1,
+        "wgnu": "2"
+    },
+    "91": {
+        "plu": 999990,
+        "naziv": "Nema proizvoda",
+        "odeljenje": 1,
+        "wgnu": "2"
+    }
+}

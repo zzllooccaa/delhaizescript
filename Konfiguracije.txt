@@ -1,0 +1,17 @@
+"PluPocetak": 1
+"PluDuzina": 5
+"WGNU": 13
+"PluPocetak": "1"
+"PluDuzina": "5"
+"WGNU": "14"
+"NazivPocetak": "34"
+"NazivDuzina": "40"
+"OdeljenjePocetak": "6"
+"OdeljenjeDuzina": "1"
+"CenaPocetak": "7"
+"CenaDuzina": "6"
+"Max_duzina_za_novi_red": "536"
+"Ip_MasterVage": "193.168.101.66"
+"BrojVaga": "3"
+"Ip_RezervneVage": "135.132.123.32"
+"PutanjaDoPlst_txt": "C:/Vdelta/PLU_ATST/plst_proba.txt"
